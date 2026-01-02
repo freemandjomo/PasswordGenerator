@@ -79,7 +79,7 @@ Sonderzeichen: !@#$%^&*()_+~`|}{[]:;?><,./-=
 
 1. **Repository klonen**
    ```bash
-   git clone https://github.com/[dein-username]/PasswordGenerator.git
+   git clone https://github.com/freemandjomo/PasswordGenerator
    ```
 
 2. **In das Verzeichnis wechseln**
