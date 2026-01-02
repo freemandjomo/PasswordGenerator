@@ -113,6 +113,12 @@ Die generierten Passwörter sind für den persönlichen Gebrauch konzipiert und 
 
 ---
 
+## 📸 Screenshots
+
+### Main Interface
+![QR_Code Generator Interface]()
+
+
 ## 📝 Code-Beispiel
 
 ```javascript
