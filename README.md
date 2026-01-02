@@ -116,7 +116,7 @@ Die generierten Passwörter sind für den persönlichen Gebrauch konzipiert und 
 ## 📸 Screenshots
 
 ### Main Interface
-![QR_Code Generator Interface]()
+![QR_Code Generator Interface](https://github.com/freemandjomo/PasswordGenerator/blob/main/Screenshot%202026-01-02%20214224.png)
 
 
 ## 📝 Code-Beispiel
