@@ -9,7 +9,7 @@ Ein eleganter und benutzerfreundlicher **Passwort-Generator**, der sichere, zuf�
 
 ---
 
-## ✨ Features
+## ✨Features
 
 - 🎲 **Zufallsgenerierung**: Erstellt starke Passwörter mit Groß-/Kleinbuchstaben, Zahlen und Sonderzeichen
 - 🎚️ **Anpassbare Länge**: Wähle die Passwortlänge zwischen 8 und 15 Zeichen mit einem interaktiven Slider
