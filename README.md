@@ -13,7 +13,7 @@ Ein eleganter und benutzerfreundlicher **Passwort-Generator**, der sichere, zuf�
 
 - 🎲 **Zufallsgenerierung**: Erstellt starke Passwörter mit Groß-/Kleinbuchstaben, Zahlen und Sonderzeichen
 - 🎚️ **Anpassbare Länge**: Wähle die Passwortlänge zwischen 8 und 15 Zeichen mit einem interaktiven Slider
-- 📋 **Ein-Klick-Kopieren**: Kopiere generierte Passwörter direkt in die Zwischenablage
+- 📋 **Ein-Klick-Kopieren**: Kopiere generierte Passwörter direkt in die Zwischenablage.
 - 🎨 **Modernes Design**: Schönes, minimalistisches UI mit sanften Animationen und Farbverläufen
 - ✅ **Visuelles Feedback**: Icon ändert sich nach erfolgreicher Aktion
 - 📱 **Responsive**: Funktioniert auf allen Geräten.
