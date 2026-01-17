@@ -26,7 +26,7 @@ Ein eleganter und benutzerfreundlicher **Passwort-Generator**, der sichere, zuf√
 
 1. **L√§nge anpassen** mit dem Slider (8-15 Zeichen)
 2. **"Generate Password"** klicken
-3. **Kopieren-Icon** klicken, um das Passwort zu kopieren
+3. **Kopieren-Icon** klicken, um das Passwort zu kopieren.
 
 ---
 
