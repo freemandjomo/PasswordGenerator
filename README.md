@@ -16,7 +16,7 @@ Ein eleganter und benutzerfreundlicher **Passwort-Generator**, der sichere, zuf�
 - 📋 **Ein-Klick-Kopieren**: Kopiere generierte Passwörter direkt in die Zwischenablage
 - 🎨 **Modernes Design**: Schönes, minimalistisches UI mit sanften Animationen und Farbverläufen
 - ✅ **Visuelles Feedback**: Icon ändert sich nach erfolgreicher Aktion
-- 📱 **Responsive**: Funktioniert auf allen Geräten
+- 📱 **Responsive**: Funktioniert auf allen Geräten.
 
 ---
 
